@@ -1,6 +1,6 @@
 ## Olá terráqueos 👋
 
-##### I'm Paulo, from São Paulo - Brazil 🇧🇷, I'm 23, and write some code for front-end, in the most time using Angular. And the most part of code, that i wrote, are in private git's(working to revert it).
+#### I'm Paulo, from São Paulo - Brazil 🇧🇷, I'm 23, and write some code for front-end, in the most time using Angular. And the most part of code, that i wrote, are in private git's(working to revert it).
 
 - I'm currently studiyng Angular, CSS, Typescript, and everything in front-end universe (focused in Angular framework).
 - I like to play videogames (I mean computer games), and hate Java, I have my reasons. I know a bit of Java, but still hating it.
